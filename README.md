@@ -6,7 +6,7 @@ A simple flutter app explaining integrating Mpesa API with Flutter
 
 To contribute to this project, fork the repo, then clone the forked repo from your github account
 
-$git clone https://github.com/JosephineAkello/myportfolio.git 
+$git clone https://github.com/JosephineAkello/mpesa_flutter_demo
 
 To install dependencies run
 
