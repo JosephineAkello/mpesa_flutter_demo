@@ -1,16 +1,33 @@
 # mpesa_flutter
 
-A new Flutter project.
+A simple flutter app explaining integrating Mpesa API with Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To contribute to this project, fork the repo, then clone the forked repo from your github account
 
-A few resources to get you started if this is your first Flutter project:
+$git clone https://github.com/JosephineAkello/myportfolio.git 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+To install dependencies run
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    $flutter packages get or flutter pub get
+        
+To analyze the project run:
+
+    $flutter analyze
+
+To run the project:
+
+    $flutter run
+
+To clean the project run:
+
+    $flutter clean
+
+To build apk run:
+
+    $flutter build apk
+
+For getting started with Flutter you can check my article 
+[Get started](https://medium.com/podiihq/how-to-get-started-on-fun-flutter-699c81c89a8f)
+
